@@ -1,6 +1,6 @@
 # Ipgetter
 
-This module is designed to fetch your external IP address from the internet.
+This package is designed to fetch your external IP address from the internet.
 
 ## Usage
 
